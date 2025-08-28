@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nomor-whatsapp-tokocrypto.vercel.app/sitemap.xml
